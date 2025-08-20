@@ -14,7 +14,7 @@ company: 푸드노트서비스 (FoodnoteService Inc.)
 - **미션**: 외식 매장의 매출·정산·손익·마케팅 데이터를 한 눈에 관리할 수 있는 디지털 경영 플랫폼 제공
 - **설립**: 2019.04
 - **본사**: 서울특별시 영등포구 양평로22길 21, 209호 (선유도 코오롱디지털타워)
-- **임직원**: 30+명
+- **임직원**: 20+명
 - **웹사이트**: https://www.jangboo.kr, https://fc.jangboo.kr
 - **이메일**: help@jangboo.kr
 
@@ -68,7 +68,7 @@ company: 푸드노트서비스 (FoodnoteService Inc.)
 - [가치/원칙](https://www.notion.so/175acc2ee01444bd9430ab69b7a9f8d5)  
 - [Rule & Benefit](https://www.notion.so/Rule-Benefit-44ca961bf674463dbf8a5d817d0fd2ac)  
 - [근무 환경](https://www.notion.so/67028cef0ff54807846cc661b24f05fc)  
-- **채용 문의**: smyoon@jangboo.kr
+- **채용 문의**: help@jangboo.kr
 
 ## 뉴스/보도
 
@@ -104,4 +104,5 @@ company: 푸드노트서비스 (FoodnoteService Inc.)
 - 07. [Team & Culture](07-team-culture.md)
 - 08. [News & Press](08-news-press.md)
 - 09. [Contact](09-contact.md)
+
 - 10. [Appendix](10-appendix.md)
